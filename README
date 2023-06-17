@@ -1,0 +1,7 @@
+A little Puppeteer script to automate the re-ordering of vape refill bottles.
+
+Given a list of preferred flavours, it will find the options that are in stock and add them to your basket.
+
+If too many items are out of stock, it will order multiple of the same flavour.
+
+Made this one evening to save about 2 minutes a month!
