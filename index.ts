@@ -8,7 +8,6 @@ const itemUrls = [
     "https://refillstation.online/products/bronx-papaya-pop-with-free-nicotine-shot",
     "https://refillstation.online/products/bronx-grape-soda-with-free-nicotine-shot",
     "https://refillstation.online/products/ozo-mango-melon-passion-fruit-with-free-nicotine-shot-1",
-    "https://refillstation.online/products/hero-sauce-bazinga-tooty-fruity-with-free-nicotine-shot-1",
     "https://refillstation.online/products/bronx-twister-with-free-nicotine-shot"
 ]
 
